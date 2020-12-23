@@ -16,7 +16,7 @@
 
 ## The Box Within
 
-This is a group assignment for the Game Design module.  
+This is a group assignment for the Game Design module. Box Within is a text-based game where your actions and words will affect how you progress through the game and the outcome you get. Your character suffers from schizophrenia and is placed into an asylum where he will be treated, it is up to you as the player to uncover the past while managing the insanity in order to get out.
 Submitted 23-12-2020
 
 <!-- CONTRIBUTING -->
